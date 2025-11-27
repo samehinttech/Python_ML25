@@ -1,0 +1,37 @@
+# Jupyter Notebooks: merge outputs and metadata without conflicts
+*.ipynb merge=union
+*.ipynb diff=jupyternotebook
+
+# Python files: consistent line endings
+*.py text eol=lf
+
+# Markdown & text files: consistent line endings
+*.md text eol=lf
+*.txt text eol=lf
+
+# JSON, YAML, CSV: consistent line endings
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.csv text eol=lf
+
+# Binary files: Git should not attempt to diff or merge
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.h5 binary
+*.ipynb	merge=jupyternotebook
+
+# Ensure consistent line endings for text files across all platforms
+# - *.txt : plain text files like requirements.txt
+# - *.py  : Python source files
+# - *.md  : Markdown files (README, docs)
+# All will use LF (Unix-style) in the repo, preventing CRLF warnings on Windows
+*.txt text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf

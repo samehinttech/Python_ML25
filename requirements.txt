@@ -1,0 +1,16 @@
+# matplotlib for plotting graphs
+matplotlib
+# numpy for numerical operations
+numpy
+# jupyter for interactive sessions$
+notebook
+# pandas for data manipulation and analysis
+pandas
+# openpyxl for Excel file handling
+openpyxl
+
+# To reduce meaningless diffs in Git (install when needed only)
+nbdime
+
+# Scikit-learn for ML
+scikit-learn
