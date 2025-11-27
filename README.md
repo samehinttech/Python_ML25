@@ -8,8 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning_in%20progress-yellow)
 
 
-This repository documents my journey in learning Python programming, building upon my prior experience with Java.
----
+##### This repository documents my journey in learning Python programming, building upon my prior experience with Java.
 ## Structure of the Repository
 - [Fundamentals](./fundamentals): Basic syntax, variables, data types, and I/O.
 - [Conditionals](./conditionals): `if`/`elif`/`else`, comparisons, and logical operators.
@@ -18,9 +17,17 @@ This repository documents my journey in learning Python programming, building up
 - [Functions](./functions): Defining and calling functions; modular programming.
 - [Exceptions](./exceptions): Error handling with `try`/`except`, `finally`, and custom exceptions.
 - [OOP](./oop): Basic classes, objects, methods, and inheritance.
-- [Data Exploration](./data_exploration): Intro to Pandas and Numpy.
-- [Data Visualization](./data_visualization): Creating plots with Matplotlib and Numpy.
+- [Data Exploration](./data_exploration): Intro to Pandas and Numpy(includes Jupyter notebooks).
+- [Data Visualization](./data_visualization): Creating plots with Matplotlib and Numpy (includes Jupyter notebooks).
+- [Machine Learning](./machine_learning): Basic ML concepts and algorithms using Scikit-learn(includes Jupyter notebooks).
 ---
+
+## Tools Used
+- **Python 3.13** 
+- **PyCharm** 
+- **Jupyter Notebook**
+--- 
+
 ## Setup Instructions
 1. Clone the repository
     ```bash
@@ -42,17 +49,23 @@ This repository documents my journey in learning Python programming, building up
    ```bash
    pip install -r requirements.txt
    ```
-6. Run Python scripts:
-   ```bash
+6. Start Jupyter Notebook (for interactive notebooks) and avoid files path issues:
+    ```bash
+   jupyter notebook
+    ```
+   > **Important:** Always start Jupyter from the project root directory (`Python_Learning_ML`) to ensure correct file paths.
+7. Run Python scripts:
+    ```bash
    python script_name.py
-   ```
+    ```
+   
 Happy coding!
 ---
 ## Progress Tracker
 - [x] Core Python fundamentals (syntax, control flow, data structures)
 - [x] Functions and error handling
 - [ ] Solid OOP foundations
-- [ ] Practical data analysis (Pandas, Matplotlib, Numpy)
+- [x] Practical data analysis (Pandas, Matplotlib, Numpy)
 - [ ] Machine learning
 
 ---
@@ -67,4 +80,4 @@ Happy coding!
 ## Timeline
 | **Start Date**  | **Last Updated**  |
 |-----------------|-------------------|
-| October 3, 2025 | November 19, 2025 |
+| October 3, 2025 | November 27, 2025 |
