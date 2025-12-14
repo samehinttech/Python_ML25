@@ -1,11 +1,15 @@
 # My personal journey learning Python programming.
-![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange)
-![Pandas](https://img.shields.io/badge/Library-Pandas-green)
-![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)
-![Numpy](https://img.shields.io/badge/Library-Numpy-yellowgreen)
-![ML](https://img.shields.io/badge/Topic-Machine%20Learning-orange)
-![Status](https://img.shields.io/badge/Status-Learning_in%20progress-yellow)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebooks-orange)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-green)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)](https://matplotlib.org/)
+[![Numpy](https://img.shields.io/badge/Library-Numpy-yellowgreen)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-orange)](https://scikit-learn.org/stable/)
+[![Status](https://img.shields.io/badge/Status-Learning_in%20Progress-yellow)](https://github.com/samehinttech/Python_Learning_ML)
+[![Repo Started](https://img.shields.io/badge/Repo%20Started-2025--10--03-blue?logo=github)](https://github.com/samehinttech/Python_Learning_ML)
+[![Last Commit](https://img.shields.io/github/last-commit/samehinttech/Python_Learning_ML?color=yellow&label=Last%20Update&logo=github)](https://github.com/samehinttech/Python_Learning_ML/commits/main)
+
+
 
 
 ##### This repository documents my journey in learning Python programming, building upon my prior experience with Java.
