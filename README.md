@@ -79,9 +79,6 @@ Happy coding!
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Numpy Documentation](https://numpy.org/doc/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 
----
-## Timeline
-| **Start Date**  | **Last Updated**  |
-|-----------------|-------------------|
-| October 3, 2025 | November 27, 2025 |
+ 
