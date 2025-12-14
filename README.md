@@ -5,9 +5,9 @@
 [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-red)](https://matplotlib.org/)
 [![Numpy](https://img.shields.io/badge/Library-Numpy-yellowgreen)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/Library-Scikit--learn-orange)](https://scikit-learn.org/stable/)
-[![Status](https://img.shields.io/badge/Status-Learning_in%20Progress-yellow)](https://github.com/samehinttech/Python_Learning_ML)
-[![Repo Started](https://img.shields.io/badge/Repo%20Started-2025--10--03-blue?logo=github)](https://github.com/samehinttech/Python_Learning_ML)
-[![Last Commit](https://img.shields.io/github/last-commit/samehinttech/Python_Learning_ML?color=yellow&label=Last%20Update&logo=github)](https://github.com/samehinttech/Python_Learning_ML/commits/main)
+[![Status](https://img.shields.io/badge/Status-Learning_in%20Progress-yellow)](https://github.com/samehinttech/Python_ML_25)
+[![Repo Started](https://img.shields.io/badge/Repo%20Started-2025--10--03-blue?logo=github)](https://github.com/samehinttech/Python_ML_25)
+[![Last Commit](https://img.shields.io/github/last-commit/samehinttech/Python_ML_25?color=yellow&label=Last%20Update&logo=github)](https://github.com/samehinttech/Python_ML_25/commits/main)
 
 
 
